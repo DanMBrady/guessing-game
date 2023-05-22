@@ -1,0 +1,16 @@
+C:\Users\cwrai\workspace\csharp\guessing\guessing\bin\Debug\net5.0\guessing.exe
+C:\Users\cwrai\workspace\csharp\guessing\guessing\bin\Debug\net5.0\guessing.deps.json
+C:\Users\cwrai\workspace\csharp\guessing\guessing\bin\Debug\net5.0\guessing.runtimeconfig.json
+C:\Users\cwrai\workspace\csharp\guessing\guessing\bin\Debug\net5.0\guessing.runtimeconfig.dev.json
+C:\Users\cwrai\workspace\csharp\guessing\guessing\bin\Debug\net5.0\guessing.dll
+C:\Users\cwrai\workspace\csharp\guessing\guessing\bin\Debug\net5.0\ref\guessing.dll
+C:\Users\cwrai\workspace\csharp\guessing\guessing\bin\Debug\net5.0\guessing.pdb
+C:\Users\cwrai\workspace\csharp\guessing\guessing\obj\Debug\net5.0\guessing.csproj.AssemblyReference.cache
+C:\Users\cwrai\workspace\csharp\guessing\guessing\obj\Debug\net5.0\guessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwrai\workspace\csharp\guessing\guessing\obj\Debug\net5.0\guessing.AssemblyInfoInputs.cache
+C:\Users\cwrai\workspace\csharp\guessing\guessing\obj\Debug\net5.0\guessing.AssemblyInfo.cs
+C:\Users\cwrai\workspace\csharp\guessing\guessing\obj\Debug\net5.0\guessing.csproj.CoreCompileInputs.cache
+C:\Users\cwrai\workspace\csharp\guessing\guessing\obj\Debug\net5.0\guessing.dll
+C:\Users\cwrai\workspace\csharp\guessing\guessing\obj\Debug\net5.0\ref\guessing.dll
+C:\Users\cwrai\workspace\csharp\guessing\guessing\obj\Debug\net5.0\guessing.pdb
+C:\Users\cwrai\workspace\csharp\guessing\guessing\obj\Debug\net5.0\guessing.genruntimeconfig.cache
